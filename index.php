@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <!-- Required meta tags -->
@@ -17,7 +17,7 @@
         <div class="jumbotron bg-danger">
 
             <h1>Lista Telefonica</h1>
-            <p></p>
+            <p>Sistema de agenda utilizando o CRUD com PHP e SQL</p>
         </div>
 
         <?php
