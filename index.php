@@ -24,7 +24,7 @@
         session_start();
 
         //CONNECTION BY PDO;
-        $pdo = new PDO('mysql:host=localhost;dbname=lista-telefonica', 'root', '');
+        $pdo = new PDO('mysql:host=localhost;dbname=lista_telefonica', 'root', '');
 
         if (isset($_POST["enviar"])) {
 
